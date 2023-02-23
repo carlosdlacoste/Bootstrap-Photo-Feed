@@ -1,0 +1,44 @@
+.navbar{
+    padding-top: 0 !important;
+}
+
+.navbar-elements-left{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav{
+    justify-content: center;
+}
+
+.fa-instagram:before{
+    margin: 8px;
+    font-size: 1.5rem;
+}
+
+.fa-brands, .fab{
+    font-weight: 800 !important; 
+ 
+}
+
+.dropdown-menu[data-bs-popper]{ 
+    left: -10vh;
+    right: 10vh;
+}
+
+nav{
+    margin-top: 20px;
+    margin-bottom: 20px !important;
+}
+
+.col-4 img{
+    height: 30vh !important;
+    width: 100vh !important;
+    object-fit: cover;
+}
+
+.row>*{
+    padding: 2px;
+}
+
